@@ -14,8 +14,6 @@ function multiply(value: number) {
             let obj = descriptorFunc.apply(target, arguments);
             return obj * value;
         };
-
-        return descriptor;
     };
 }
 
@@ -26,7 +24,5 @@ function subtract(value: number) {
             let obj = descriptorFunc.apply(target, arguments);
             return obj - value;
         };
-
-        return descriptor;
     };
 }
