@@ -1,0 +1,23 @@
+
+
+import {Car} from "app.js";
+
+	- //app.js
+		function Car(){
+			return "lamborghini";
+		}
+		export Car;
+	
+
+
+import Car from "app.js";
+
+	- //app.js
+		function Car(){
+			return "lamborghini";
+		}
+		export default Car;
+		
+		
+
+----- if the component is not a default export - then it should be imported with {}.
