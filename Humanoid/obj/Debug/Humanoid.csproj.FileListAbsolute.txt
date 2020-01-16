@@ -1,0 +1,7 @@
+F:\Axceligent_Test\Humanoid\bin\Debug\Humanoid.exe.config
+F:\Axceligent_Test\Humanoid\bin\Debug\Humanoid.exe
+F:\Axceligent_Test\Humanoid\bin\Debug\Humanoid.pdb
+F:\Axceligent_Test\Humanoid\obj\Debug\Humanoid.csprojAssemblyReference.cache
+F:\Axceligent_Test\Humanoid\obj\Debug\Humanoid.csproj.CoreCompileInputs.cache
+F:\Axceligent_Test\Humanoid\obj\Debug\Humanoid.exe
+F:\Axceligent_Test\Humanoid\obj\Debug\Humanoid.pdb

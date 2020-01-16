@@ -1,0 +1,10 @@
+F:\Axceligent_Test\Alexa_Settings\bin\Debug\Alexa_Settings.exe.config
+F:\Axceligent_Test\Alexa_Settings\bin\Debug\Alexa_Settings.exe
+F:\Axceligent_Test\Alexa_Settings\bin\Debug\Alexa_Settings.pdb
+F:\Axceligent_Test\Alexa_Settings\obj\Debug\Alexa_Settings.csprojAssemblyReference.cache
+F:\Axceligent_Test\Alexa_Settings\obj\Debug\Alexa_Settings.csproj.CoreCompileInputs.cache
+F:\Axceligent_Test\Alexa_Settings\obj\Debug\Alexa_Settings.exe
+F:\Axceligent_Test\Alexa_Settings\obj\Debug\Alexa_Settings.pdb
+F:\Axceligent_Test\Alexa_Settings\bin\Debug\System.ValueTuple.dll
+F:\Axceligent_Test\Alexa_Settings\bin\Debug\System.ValueTuple.xml
+F:\Axceligent_Test\Alexa_Settings\obj\Debug\Alexa_Settings.csproj.CopyComplete

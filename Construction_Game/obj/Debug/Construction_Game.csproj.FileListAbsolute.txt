@@ -1,0 +1,7 @@
+F:\Axceligent_Test\Construction_Game\bin\Debug\Construction_Game.exe.config
+F:\Axceligent_Test\Construction_Game\bin\Debug\Construction_Game.exe
+F:\Axceligent_Test\Construction_Game\bin\Debug\Construction_Game.pdb
+F:\Axceligent_Test\Construction_Game\obj\Debug\Construction_Game.csprojAssemblyReference.cache
+F:\Axceligent_Test\Construction_Game\obj\Debug\Construction_Game.csproj.CoreCompileInputs.cache
+F:\Axceligent_Test\Construction_Game\obj\Debug\Construction_Game.exe
+F:\Axceligent_Test\Construction_Game\obj\Debug\Construction_Game.pdb
